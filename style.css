@@ -1,0 +1,30 @@
+body {
+  background-color: #FEE9FC;
+  font-family: Arial;
+  color: #1f1c0d;
+}
+
+#header {
+  background-color: #FFC5E5;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+}
+
+#menu h3 {
+  display: inline-block;
+}
+
+#page-title{
+  display: inline-block;
+  position: absolute;
+  left: 92%;
+  /* text-align: center; */
+}
+
+#about-us {
+  margin-top: ; 
+  margin-right: ;
+  margin-left: ;
+}
