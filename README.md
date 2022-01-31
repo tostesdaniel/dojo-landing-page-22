@@ -1,3 +1,8 @@
+# Exercício de Landing Page - Sala 22 no Zoom
+
+O repositório original pode ser encontrado aqui https://github.com/NandaInstrucao/dojo-landing-page. Foi criado um novo repositório para a realização do mesmo, uma vez que foi possível trabalhar com fork.
+Este exercício está sendo realizado por Celso Nunes, Daniel Tostes e Victor Vidal; alunos da Turma 20, onde todos são da tribo A, exceto Daniel, que faz parte da tribo B.
+
 # Dojo - Landing Page
 
 Boas-Vindas ao repositório do Dojo Landing Page!
